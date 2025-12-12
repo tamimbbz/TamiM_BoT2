@@ -4,7 +4,7 @@ module.exports = {
     name: "system",
     aliases: [],
     version: "1.0",
-    author: "",
+    author: "tamu",
     countDown: 5,
     role: 0,
     shortDescription: "System",
