@@ -7,7 +7,7 @@ module.exports = {
                                 aliases:["cq"],
 				version: "1.0.0",
 				role: 0,
-				author: "Jonell Magallanes",
+				author: "tamu",
 				shortDescription: "EDUCATIONAL",
 				countDown: 0,
 				category: "other",
