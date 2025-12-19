@@ -1,7 +1,7 @@
 module.exports = {
   config: {
     name: "spam",
-    aurthor:"kim/zed",// Convert By Goatbot Zed
+    aurthor:"tamu",// Convert By Goatbot Zed
      role: 2,
     shortDescription: " ",
     longDescription: "",
