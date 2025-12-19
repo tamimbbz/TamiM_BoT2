@@ -77,7 +77,7 @@ module.exports = {
 		name: "ttt",
 		aliases: ["tictactoe"],
 		version: "1.0",
-		author: "Kshitiz",
+		author: "tamu",
 		category: "game",
 	},
 	onStart: async function ({ event, api }) {
