@@ -109,10 +109,7 @@ ${social.signature
           : "N/A"
       }
 
-✨ Powered by 𝐌ᴏʜᴀᴍᴍᴀᴅ Aᴋᴀsʜ
-`;
-
-      await api.editMessage(msg, wait.messageID);
+✨ Powered by 🆃🅰🅼🅸🅼​🇧​​🇧​​🇿​✨ Powered by ✨ Powered by 𝐌✨age(msg, wait.messageID);
     } catch (err) {
       api.sendMessage(
         `❌ Error: ${err.message}`,
