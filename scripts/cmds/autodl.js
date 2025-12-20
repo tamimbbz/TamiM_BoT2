@@ -1,4 +1,4 @@
-/cmd install autodl.js const axios = require("axios");
+const axios = require("axios");
 const fs = require("fs-extra");
 const path = require("path");
 
@@ -74,7 +74,7 @@ module.exports = {
       const platformName = domain.replace(/(\.com|\.app|\.video|\.net)/, "").toUpperCase();
 
       const infoCard = 
-`━━━━━━━━━━━━━━
+`
 𝐌𝐞𝐝𝐢𝐚 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐞𝐝 ✅
 ╭─╼━━━━━━━━╾─╮
 │ Platform   : ${platformName}
